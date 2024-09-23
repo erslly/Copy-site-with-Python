@@ -1,0 +1,1 @@
+- Herhangi bir sitenin en azından indexini alabilirsiniz açık uçlu bir scripttir dilerseniz geliştirebilirsiniz.
